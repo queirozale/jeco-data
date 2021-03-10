@@ -2,7 +2,8 @@ jeco-data
 ==============================
 
 Jeco Data Engineering
-    git clone git@github.com:yourgithubusername/tutorial.git
+
+
 
 
 Project Organization
