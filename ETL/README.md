@@ -3,21 +3,21 @@ jeco-data
 
 Jeco Data Engineering
 
-## Creating a virtual environment
+## 1. Creating a virtual environment
 On macOS and Linux:
 `python3 -m venv env`
 
 On Windows:
 `py -m venv env`
 
-## Activating a virtual environment
+## 2. Activating a virtual environment
 On macOS and Linux:
 `source env/bin/activate`
 
 On Windows:
 `.\env\Scripts\activate`
 
-## Installing required packages
+## 3. Installing required packages
 `pip3 install -r requirements.txt`
 
 
