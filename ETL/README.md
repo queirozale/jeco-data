@@ -2,19 +2,23 @@ jeco-data
 ==============================
 
 Jeco Data Engineering
+
 ## Creating a virtual environment
-
-##### To create a virtual environment, go to your project’s directory and run venv. If you are using Python 2, replace venv with virtualenv in the below commands.
-
 On macOS and Linux:
+`python3 -m venv env`
 
-I think you should use an
-`<addr>` element here instead.
+On Windows:
+`py -m venv env`
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+## Activating a virtual environment
+On macOS and Linux:
+`source env/bin/activate`
+
+On Windows:
+`.\env\Scripts\activate`
+
+## Installing required packages
+`pip3 install -r requirements.txt`
 
 
 Project Organization
