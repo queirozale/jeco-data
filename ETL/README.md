@@ -3,6 +3,7 @@ jeco-data
 
 Jeco Data Engineering
 
+# Setup proccess:
 ## 1. Creating a virtual environment
 On macOS and Linux:
 `python3 -m venv env`
